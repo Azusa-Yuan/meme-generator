@@ -144,6 +144,34 @@
     "hash": "5b177dd1778fd2a2a8703b4da5870847"
   },
   {
+    "path": "ba_say/images/arisu.png",
+    "hash": "2871ea924b78c98c22545a5a99fb03a3"
+  },
+  {
+    "path": "ba_say/images/izuna.png",
+    "hash": "3e54f3c7526fd9141d25a19fdda529a7"
+  },
+  {
+    "path": "ba_say/images/key.png",
+    "hash": "ae98856499273abdff3a2752027ea70c"
+  },
+  {
+    "path": "ba_say/images/kokona.png",
+    "hash": "6b7d9244c6f1f36bfd80d66c9dfee8cb"
+  },
+  {
+    "path": "ba_say/images/mari.png",
+    "hash": "512c46f03f7dd6bf5117c0c9ec8d4a14"
+  },
+  {
+    "path": "ba_say/images/sena.png",
+    "hash": "1d9caf5c4390876e0723577832f67101"
+  },
+  {
+    "path": "ba_say/images/yuuka.png",
+    "hash": "2ff39cce2457ab7cc47bf500f78e16c5"
+  },
+  {
     "path": "back_to_work/images/0.png",
     "hash": "d85cf009fac3ce49ed90883e0c61e737"
   },
@@ -2520,6 +2548,10 @@
     "hash": "acc2814bf86e9660f551b73d40909d53"
   },
   {
+    "path": "fogging/images/0.png",
+    "hash": "4ea66ff0ad95d81fd2f0b87c99ba6302"
+  },
+  {
     "path": "frieren_take/images/0.png",
     "hash": "e398b7c3f7088245e4b3772375757beb"
   },
@@ -4144,14 +4176,6 @@
     "hash": "fa158f632f04f81c4eeeb4766222df07"
   },
   {
-    "path": "kokona_say/images/01.png",
-    "hash": "865e1b6d5a16cfaefc54e5eeaeea78a0"
-  },
-  {
-    "path": "kokona_say/images/02.png",
-    "hash": "76bdef6330d63d75f03fecefee7d806d"
-  },
-  {
     "path": "kokona_seal/images/1.png",
     "hash": "22c7dc05fe1080b6fa97d9cddb6b9e3c"
   },
@@ -4602,6 +4626,10 @@
   {
     "path": "love_you/images/1.png",
     "hash": "3e44083dd543e1380bdc03931b09984d"
+  },
+  {
+    "path": "luotianyi_need/images/0.png",
+    "hash": "4967f8e5f4e2152bb7309cb5db85bb89"
   },
   {
     "path": "luotianyi_say/images/0.png",
@@ -7718,6 +7746,74 @@
   {
     "path": "read_book/images/0.png",
     "hash": "c0bfd676ec62f8ef1a2e2c98244681ba"
+  },
+  {
+    "path": "remote_control/images/0.png",
+    "hash": "8ca79f37216838797b41ba45595c5e18"
+  },
+  {
+    "path": "remote_control/images/1.png",
+    "hash": "b3f7fdf941a11a5a22f980663381ffa3"
+  },
+  {
+    "path": "remote_control/images/10.png",
+    "hash": "57cbde3ec8ea65ad08fc1d8cfe1efbda"
+  },
+  {
+    "path": "remote_control/images/11.png",
+    "hash": "95002681f60c3dd9fecee67cdd6481be"
+  },
+  {
+    "path": "remote_control/images/12.png",
+    "hash": "f685cf70af2132668e1d3b679f3e1642"
+  },
+  {
+    "path": "remote_control/images/13.png",
+    "hash": "b5a943e074f7b936c4c34267387d05ea"
+  },
+  {
+    "path": "remote_control/images/14.png",
+    "hash": "6b1e37fdf3e587f348ce32113efd08fe"
+  },
+  {
+    "path": "remote_control/images/15.png",
+    "hash": "6e1726f1f66295efb9dc71f5fb2f2fab"
+  },
+  {
+    "path": "remote_control/images/16.png",
+    "hash": "9ebf575e3cf688ff72f56e4ed00c1193"
+  },
+  {
+    "path": "remote_control/images/2.png",
+    "hash": "145411a7ff3c43996c6a4e96ad774a61"
+  },
+  {
+    "path": "remote_control/images/3.png",
+    "hash": "a39e60a062ac92e12d1d3314e5c743e7"
+  },
+  {
+    "path": "remote_control/images/4.png",
+    "hash": "075c6d4f2af52259e3af728c3e72dd6a"
+  },
+  {
+    "path": "remote_control/images/5.png",
+    "hash": "871966c7c4884861766e784170d8418b"
+  },
+  {
+    "path": "remote_control/images/6.png",
+    "hash": "6ce86a56f50d04607cbaced4390a32d2"
+  },
+  {
+    "path": "remote_control/images/7.png",
+    "hash": "928802e2ca839a39fa6b0b90d54ae0db"
+  },
+  {
+    "path": "remote_control/images/8.png",
+    "hash": "1a5d1ffd7fc087f5f569504ea0981f4b"
+  },
+  {
+    "path": "remote_control/images/9.png",
+    "hash": "6f3373ff08d1b353a1a9f94a128ebe69"
   },
   {
     "path": "repeat/images/0.jpg",
